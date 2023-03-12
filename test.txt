@@ -1,15 +1,1 @@
-123 123 123
-123 a
-a
-remote changes
-local changes
-123 a
-12 qw9o0uehfgowehfopiawhredgopiqwhegopiwehg
-312
-312
-312
-31
-23	1
-231
-23
-123 123 123 123 123 123 123 123 123 123 123
+hello world its me 
