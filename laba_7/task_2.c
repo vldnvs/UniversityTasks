@@ -36,7 +36,7 @@ int main() {
     }
 
     qsort(arr, n, sizeof(char *), compare);
-    lexical_sort(arr, n);
+    hair_sort(arr, n);
 
     printf("\nПосле:\n");
     for (int i = 0; i < n; i++) {
