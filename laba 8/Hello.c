@@ -38,7 +38,7 @@ int main() {
 			
 		}
 		else {
-			snprintf(str, 200, "%d %f\n", j, cvw);
+			snprintf(str, 200, "%d %f\n", j, cva);
 		}
 
 		fprintf(my_file, str);
